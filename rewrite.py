@@ -3,7 +3,9 @@ def min(x,y):
         return x
     elif x > y:
         return y
-
+djkhvlzhjxvLXMvklzxj
+xvzkjkzxvklzxjvklxz
+zxvmzxkjvnkzxjvkjxz
 
 def max(x,y):
     if x <= y:
